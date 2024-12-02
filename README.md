@@ -4,9 +4,9 @@ My solutions for the [Advent of Code](https://adventofcode.com/) event (2024 edi
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
-- **Available stars (challenges):** **2**👩🏻‍💻
-- **Collected stars:** **2**⭐
-- **Repo last updated:** December 1st 2024
+- **Available stars (challenges):** **4**👩🏻‍💻
+- **Collected stars:** **4**⭐
+- **Repo last updated:** December 2nd 2024
 
 ---
 
@@ -24,10 +24,12 @@ Collect stars by solving puzzles. Two puzzles will be made available on each day
 
 _\* Usually I like to solve both challenges of the day separately, but I will add a unified solution when possible_
 
+##### Note: I'm posting these to the official subreddit, so I can't include challenge texts or puxxle inputs. I will add them once the event is over.
+
 | Day | Part 1: Solution   | Part 2: Solution   | Extra: Unified solution |
 | --- | ------------------ | ------------------ | ----------------------- |
 | 01  | [⭐](./01/01-1.js) | [⭐](./01/01-2.js) | [🌠](./01/01.js)        |
-| 02  | -                  | -                  | -                       |
+| 02  | [⭐](./02/02-1.js) | [⭐](./02/02-2.js) | n/a                     |
 | 03  | -                  | -                  | -                       |
 | 04  | -                  | -                  | -                       |
 | 05  | -                  | -                  | -                       |
