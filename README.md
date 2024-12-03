@@ -4,9 +4,9 @@ My solutions for the [Advent of Code](https://adventofcode.com/) event (2024 edi
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
 
-- **Available stars (challenges):** **4**👩🏻‍💻
-- **Collected stars:** **4**⭐
-- **Repo last updated:** December 2nd 2024
+- **Available stars (challenges):** **6**👩🏻‍💻
+- **Collected stars:** **6**⭐
+- **Repo last updated:** December 3rd 2024
 
 ---
 
